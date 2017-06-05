@@ -8,7 +8,7 @@ public class Calculator implements ICalculator {
 	 * @see org.company.dao.ICalculator#sum(int, int)
 	 */
 	public int sum(int a, int b) {
-		return a + b;
+		return a - b;
 	}
 
 	/* (non-Javadoc)
